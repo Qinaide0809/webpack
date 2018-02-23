@@ -1,0 +1,45 @@
+{
+
+			"data": [
+							    {
+									"id": 1,
+									"name": "我是超级管理员",
+                  "user":"admin",
+									"pwd": "admin",
+									"limits": "0",
+                    "img":"../static/image/admin.jpg",
+                    "token":{
+                      "user":"admin",
+                      "salt":"12323SDDCS",
+                      "release":"1.2",
+                      "time":"2017-12-20"
+                    }
+								}, {
+									"id": 2,
+									"name": "dev",
+									"pwd": "1000000011",
+									"limits": "1",
+                  "img":"../static/image/dev.jpg",
+                  "token":{
+                    "user":"dev",
+                    "salt":"23231SDDCS",
+                    "release":"1.2",
+                    "time":"2017-12-20"
+                  }
+								}, {
+									"id": 3,
+									"police":1,
+									"name": "user",
+									"pwd": "1000000012",
+				 					"limits": "2",
+                  "img":"../static/image/seec.jpg",
+                  "token":{
+                    "user":"user",
+                    "salt":"23231SCS23",
+                    "release":"1.2",
+                    "time":"2017-12-20"
+                  }
+								}
+					]
+
+}

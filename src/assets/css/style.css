@@ -1,0 +1,112 @@
+.body{
+  font-size: 12px;
+}
+.icon-rate-face-off{
+  background: lightgreen;
+}
+.icon-rate-face-off:before {
+  content: "\E900";
+}
+.o-y::-webkit-scrollbar {
+  width: 5px;
+}
+
+.o-y::-webkit-scrollbar-track {
+  background-color: #ccc;
+}
+
+.o-y::-webkit-scrollbar-thumb {
+  background-color: #666;
+}
+
+/*.o-y::-webkit-scrollbar-thumb<a href="https://www.baidu.com/s?wd=%3Ahover&tn=44039180_cpr&fenlei=mv6quAkxTZn0IZRqIHckPjm4nH00T1Y3PH0zujTLuHT4nj6suH9-0ZwV5Hcvrjm3rH6sPfKWUMw85HfYnjn4nH6sgvPsT6KdThsqpZwYTjCEQLGCpyw9Uz4Bmy-bIi4WUvYETgN-TLwGUv3EP1RkPjRYP1TvPHf3rjRsnW0Y" target="_blank" class="baidu-highlight">:hover</a> {*/
+                                                                                                                                                                                                                                                                                                                               /*background-color: #9c3*/
+                                                                                                                                                                                                                                                                                                                             /*}*/
+
+.o-y::-webkit-scrollbar-thumb:active {
+  background-color: #00aff0
+}
+input ,button{
+  outline:none;
+}
+button,a{
+  cursor: pointer;
+  text-decoration: none;
+}
+/*中央树文件*/
+.menu-tree .el-tree-node__content{
+  height: 46px ;
+}
+.fl-r{
+  float: right;
+}
+.fl-l{
+  float: left;
+}
+.padding-concnet{
+  padding: 30px;
+}
+.m-b-10{
+  margin-bottom: 10px;
+}
+.l-h-40{
+  line-height: 40px;
+}
+/*新*/
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?6dc5ei');
+  src:  url('../fonts/icomoon.eot?6dc5ei#iefix') format('embedded-opentype'),
+  url('../fonts/icomoon.ttf?6dc5ei') format('truetype'),
+  url('../fonts/icomoon.woff?6dc5ei') format('woff'),
+  url('../fonts/icomoon.svg?6dc5ei#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bell:before {
+  content: "\e900";
+}
+.icon-delete:before {
+  content: "\e901";
+}
+.icon-edit:before {
+  content: "\e902";
+}
+.icon-icon1:before {
+  content: "\e903";
+}
+.icon-icon2:before {
+  content: "\e904";
+}
+.icon-icon3:before {
+  content: "\e905";
+}
+.icon-icon4:before {
+  content: "\e906";
+}
+.icon-icon5:before {
+  content: "\e907";
+}
+.icon-icon6:before {
+  content: "\e908";
+}
+.icon-icon7:before {
+  content: "\e909";
+}
+
